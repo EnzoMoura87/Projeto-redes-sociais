@@ -61,9 +61,9 @@ section#redes-sociais img:hover {
 
 
 
-@media (0px <= width <= 480px) {
+@media (0px <= width <= 500px) {
     section#redes-sociais {
         text-align: right;
-        padding-top: 240px;
+        display: flex;
     }
 }
