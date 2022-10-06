@@ -59,3 +59,11 @@ section#redes-sociais img:hover {
     box-shadow: 5px 5px 10px black;
 }
 
+
+
+@media (0px <= width <= 480px) {
+    section#redes-sociais {
+        text-align: right;
+        padding-top: 240px;
+    }
+}
